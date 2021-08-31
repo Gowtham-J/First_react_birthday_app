@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/first_react_birthday_app/static/css/main.836828cc.chunk.css",
+    "main.js": "/first_react_birthday_app/static/js/main.0129b129.chunk.js",
+    "main.js.map": "/first_react_birthday_app/static/js/main.0129b129.chunk.js.map",
+    "runtime-main.js": "/first_react_birthday_app/static/js/runtime-main.1fedd782.js",
+    "runtime-main.js.map": "/first_react_birthday_app/static/js/runtime-main.1fedd782.js.map",
+    "static/js/2.453e5411.chunk.js": "/first_react_birthday_app/static/js/2.453e5411.chunk.js",
+    "static/js/2.453e5411.chunk.js.map": "/first_react_birthday_app/static/js/2.453e5411.chunk.js.map",
+    "static/js/3.ca058c4c.chunk.js": "/first_react_birthday_app/static/js/3.ca058c4c.chunk.js",
+    "static/js/3.ca058c4c.chunk.js.map": "/first_react_birthday_app/static/js/3.ca058c4c.chunk.js.map",
+    "index.html": "/first_react_birthday_app/index.html",
+    "static/css/main.836828cc.chunk.css.map": "/first_react_birthday_app/static/css/main.836828cc.chunk.css.map",
+    "static/js/2.453e5411.chunk.js.LICENSE.txt": "/first_react_birthday_app/static/js/2.453e5411.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fedd782.js",
+    "static/js/2.453e5411.chunk.js",
+    "static/css/main.836828cc.chunk.css",
+    "static/js/main.0129b129.chunk.js"
+  ]
+}
